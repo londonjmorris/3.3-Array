@@ -3,7 +3,7 @@
 var sports = ['soccer', 'baseball'];
 var total = sports.push('football', 'swimming');
 // A:
-// sports = 2
+// sports = ['soccer', 'baseball', 'football', 'swimming']
 // total = 4
 
 
